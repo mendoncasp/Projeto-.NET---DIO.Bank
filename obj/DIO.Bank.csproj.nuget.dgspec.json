@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mendo\\.NET\\DIO.Bank\\DIO.Bank.csproj": {}
+    "C:\\Users\\mendo\\Bootcamp DIO\\Lozaliza .NET Developer\\.NET\\DIO.Bank\\DIO.Bank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mendo\\.NET\\DIO.Bank\\DIO.Bank.csproj": {
+    "C:\\Users\\mendo\\Bootcamp DIO\\Lozaliza .NET Developer\\.NET\\DIO.Bank\\DIO.Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mendo\\.NET\\DIO.Bank\\DIO.Bank.csproj",
+        "projectUniqueName": "C:\\Users\\mendo\\Bootcamp DIO\\Lozaliza .NET Developer\\.NET\\DIO.Bank\\DIO.Bank.csproj",
         "projectName": "DIO.Bank",
-        "projectPath": "C:\\Users\\mendo\\.NET\\DIO.Bank\\DIO.Bank.csproj",
+        "projectPath": "C:\\Users\\mendo\\Bootcamp DIO\\Lozaliza .NET Developer\\.NET\\DIO.Bank\\DIO.Bank.csproj",
         "packagesPath": "C:\\Users\\mendo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mendo\\.NET\\DIO.Bank\\obj\\",
+        "outputPath": "C:\\Users\\mendo\\Bootcamp DIO\\Lozaliza .NET Developer\\.NET\\DIO.Bank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mendo\\AppData\\Roaming\\NuGet\\NuGet.Config"
